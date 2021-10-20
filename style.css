@@ -1,0 +1,28 @@
+h1 {
+	color: #8675A9;
+	background: white;
+	width: 550px;
+	margin: 0px auto;
+	padding: 60px;
+	border-radius: 8px;
+	box-shadow: 0px	 30px 40px #EFBBCF;
+	background-color: #C3AED6;
+	font-size: 50px;
+	font-family: 'Rubik';
+}
+img {
+	width: 450px;
+	margin: 0px auto;
+}
+i {
+	font-size: 40px;
+	color: seagreen;
+}
+
+ {
+	margin: 80px;
+	padding: 60px;
+}
+body {
+	background-color: #FFD5CD;
+}
